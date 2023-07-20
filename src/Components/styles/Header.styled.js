@@ -6,3 +6,12 @@ export const StyledHeader = styled.header`
   padding: 40px 0;
   color: red;
 `;
+
+export const Nav = styled.nav`
+  display: flex;
+  align-item: center;
+  justify-content: space-between;
+  margin-buttom: 40px;
+`;
+
+export const Logo = styled.img``;
